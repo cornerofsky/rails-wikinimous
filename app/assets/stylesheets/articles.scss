@@ -4,3 +4,10 @@
 .nav-link {
   color: gray;
 }
+
+.article-content{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 800px;
+}
